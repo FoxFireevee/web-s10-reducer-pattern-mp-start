@@ -56,11 +56,11 @@ Interact with the prototype until you understand how the state and the user inte
 
 You fill find **comments inside the module** to help you along, but broadly, the steps are:
 
-1. Import the reducer hook from React
-2. Create an object that serves as initial state
-3. Build out a basic reducer that returns state
-4. Use the reducer hook inside of App component
-5. Pass into the Quotes component the quotes from state as a prop
+x 1. Import the reducer hook from React
+x 2. Create an object that serves as initial state
+x 3. Build out a basic reducer that returns state
+x 4. Use the reducer hook inside of App component
+x 5. Pass into the Quotes component the quotes from state as a prop
 6. Build out the reducer with all the cases
 7. Build out the action dispatchers inside the App
 8. Pass the necessary states and action dispatchers into Quotes component as props
